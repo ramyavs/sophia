@@ -10,7 +10,4 @@ if(c=='a' || c=='A'|| c=='e' || c=='E' || c=='i' || c=='I' || c=='O' || c=='O' |
 printf("the character is vowel");
 else
 printf("the character is consonent");
-   }
-else 
-printf("the character is neither vowel or consonent");
-   }
+   }}
