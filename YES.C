@@ -12,11 +12,11 @@ count++;
 }}
 if(count==1)
 {
-printf ("%d",yes);
+printf ("yes");
 }
 else
 {
-printf("%d",NO);
+printf("NO");
 }
 return 0;
 }
