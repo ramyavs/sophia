@@ -16,6 +16,6 @@ if (a[i] > greatest) {
 greatest = a[i];
     }
     }
-    printf("Greatest of ten numbers is %d", greatest");
+    printf("Greatest of ten numbers is %d", greatest);
     return 0;
   }
